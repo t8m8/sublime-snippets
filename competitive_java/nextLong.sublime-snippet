@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-nextLong()
+${1:in}.nextLong()
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>nl</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-nextInt()
+${1:in}.nextInt()
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ni</tabTrigger>
